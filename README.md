@@ -7,7 +7,7 @@ W3C Web of Things implementation by Eclipse with Node.js
 - clone project
 
 ```
-git clone https://github.com/MMMLZC/node-wot.git
+git clone https://github.com/MMMLZC/WOT.git
 ```
 
 - cd into project
